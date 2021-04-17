@@ -1,0 +1,1 @@
+module.exports='mongodb+srv://moshiur220:sitlmypassword@cluster0.xafrv.mongodb.net/martfy?retryWrites=true&w=majority';
