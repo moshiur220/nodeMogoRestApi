@@ -22,13 +22,13 @@ http://localhost:8080/api/v1/categores/607b386a4cee452ccccb3e5d
 http://localhost:8080/api/v1/categores
 
 ==> Get single categore
-http://localhost:8080/api/v1/categores/607b386a4cee452ccccb3e5d
+http://localhost:8080/api/v1/categores/id
 
 ==> Put update categore
-http://localhost:8080/api/v1/categores/607b386a4cee452ccccb3e5d
+http://localhost:8080/api/v1/categores/id
 
 ==> Delete categore
-http://localhost:8080/api/v1/categores/607b386a4cee452ccccb3e5d
+http://localhost:8080/api/v1/categores/id
 
 ==> Delete All categore
 http://localhost:8080/api/v1/categores/deleteAll
@@ -41,13 +41,13 @@ http://localhost:8080/api/v1/products/create
 http://localhost:8080/api/v1/products
 
 ==> Get Singale Product
-http://localhost:8080/api/v1/products/607b23b039c27520f0e3f5af
+http://localhost:8080/api/v1/products/id
 
 ==> Put product update
-http://localhost:8080/api/v1/products/607b23b039c27520f0e3f5af
+http://localhost:8080/api/v1/products/id
 
 ==> Delete Product
-http://localhost:8080/api/v1/products/607b23b039c27520f0e3f5af
+http://localhost:8080/api/v1/products/id
 
 ==> Delete All Product
 http://localhost:8080/api/v1/products/deleteAll
