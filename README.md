@@ -1,4 +1,4 @@
-# nodeMogoRestApi
+# nodeMongoRestApi
 # Nodejs Expressjs MongoDB API Project
 Download to git Clone
 npm install
